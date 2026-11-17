@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "u1",
+      "center": "a",
+      "unit": "x",
+      "value": 5.1
+    },
+    {
+      "id": "u1",
+      "center": "a",
+      "unit": "x",
+      "value": 5.3
+    },
+    {
+      "id": "u2",
+      "center": "b",
+      "unit": "y",
+      "value": 6.0
+    },
+    {
+      "id": "u2",
+      "center": "b",
+      "unit": "y",
+      "value": 5.8
+    }
+  ]
+}
